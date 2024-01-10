@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "@supabase/auth-helpers-nextjs": "^0.8.7",
+    "@types/react-leaflet": "^3.0.0",
+    "@types/type-name": "^1.0.32",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/react": "^18.2.47",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
